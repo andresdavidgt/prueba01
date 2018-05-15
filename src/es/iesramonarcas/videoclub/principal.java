@@ -17,6 +17,8 @@ public class principal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Pelicula pelicula1 = new Pelicula();
+        pelicula1.setNombre("Star Wars");
     }
     
 }
